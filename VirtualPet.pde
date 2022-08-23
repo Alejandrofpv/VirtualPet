@@ -1,4 +1,3 @@
-System.out.println("Hello World!");
 background(255);
 size(400, 400);
 strokeWeight(3);
